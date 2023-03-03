@@ -1,1 +1,4 @@
-
+url.txt是你用网络空间测绘爬取到的URL,然后把URL地址放入该文件,再运行python 牧羊犬POC漏洞扫描系统.py
+(记得不用url.txt的时候自己进行删除)
+即可
+在vulmap-0.9目录和POC-bomber-main目录查看生成的部分POC报告
